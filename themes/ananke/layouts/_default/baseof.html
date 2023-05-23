@@ -44,7 +44,7 @@
 
   <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}}{{ with getenv "HUGO_ENV" }} {{ . }}{{ end }}">
     <div class="top-grid">
-      <img src="/grid.png" alt="">
+      <img src="/images/grid.png" alt="">
     </div>
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
