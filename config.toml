@@ -1,6 +1,7 @@
 baseURL = 'https://mattermost.github.io/mattermost-ai-site/'
 languageCode = 'en-us'
 title = 'Mattermost AI Framework'
+canonifyURLs = true
 theme = 'ananke'
 [params]
   body_classes = "avenir light-gray bg-transparent"
