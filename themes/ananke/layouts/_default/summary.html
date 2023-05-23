@@ -1,0 +1,11 @@
+<a href="{{ .RelPermalink }}" class="relative w-100 mb4 link nested-copy-line-height dim">
+  <div class="mb3 pa4 light-gray near-white overflow-hidden">
+    {{with .CurrentSection.Title }}<span class="f6 db">{{ . }}</span>{{end}}
+    <h1 class="f3 card-title">
+        {{ .Title }}
+    </h1>
+    <div class="nested-links f5 lh-copy nested-copy-line-height">
+      {{ .Summary }}
+    </div>
+  </div>
+</a>
