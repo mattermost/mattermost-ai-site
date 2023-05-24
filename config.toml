@@ -1,4 +1,4 @@
-baseURL = 'https://mattermost.github.io/mattermost-ai-site/'
+baseURL = 'https://ai.mattermost.com'
 languageCode = 'en-us'
 title = 'Mattermost AI Framework'
 canonifyURLs = true
