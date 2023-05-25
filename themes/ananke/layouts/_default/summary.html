@@ -1,4 +1,4 @@
-<a href="{{ .RelPermalink }}" class="relative w-100 mb4 link nested-copy-line-height dim">
+<a href="{{ .RelPermalink }}" class="relative w-100 mb4 link nested-copy-line-height">
   <div class="mb3 pa4 light-gray near-white overflow-hidden">
     {{with .CurrentSection.Title }}<span class="f6 db">{{ . }}</span>{{end}}
     <h1 class="f3 card-title">
@@ -6,6 +6,13 @@
     </h1>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       {{ .Summary }}
+    </div>
+    <div class='read-more-button dim'>
+      <span>Read more</span>
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="icon">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+      </svg>
+
     </div>
   </div>
 </a>

@@ -69,3 +69,17 @@ main {
     z-index: 5;
     position: relative;
 }
+
+.read-more-button {
+    padding: 12px 20px;
+    border: 1px solid #fff;
+    border-radius: 50px;
+    display: inline-flex;
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.read-more-button .icon {
+    width: 16px;
+    margin-left: 8px;
+}
