@@ -7,8 +7,6 @@ You can run the site locally by just doing `hugo server`.
 Any blog pages can be added by creating a file in the `content/posts` folder.
 You can duplicate any of the original posts to create the new one.
 
-Once done, you can just run the command
-
 The css can be modified in `static/styles.css`
 
 ## Publishing changes
