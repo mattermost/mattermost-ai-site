@@ -5,7 +5,27 @@ title = 'Mattermost AI Framework'
 canonifyURLs = true
 theme = 'ananke'
 [params]
+  Header_classes = 'baba'
   body_classes = "avenir light-gray bg-transparent"
   post_content_classes = "avenir light-gray bg-transparent"
   background_color_class = 'bg-transparent'
   custom_css = ["styles.css"]
+
+[menu]
+[[menu.main]]
+  name = 'mattermost-ai-framework'
+  url = 'https://github.com/mattermost/mattermost-ai-framework'
+  weight = 1
+[[menu.main]]
+  name = 'mattermost-plugin-ai'
+  url = 'https://github.com/mattermost/mattermost-plugin-ai'
+  weight = 2
+[[menu.main]]
+  name = 'Docs'
+  url = 'https://docs.mattermost.com/about/mattermost-customizable-ai-bot-framework.html'
+  weight = 3
+[[menu.main]]
+  name = 'Forums'
+  url = 'https://forum.mattermost.com/c/ai-frameworks/40'
+  weight = 4
+
