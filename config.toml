@@ -10,6 +10,7 @@ theme = 'ananke'
   post_content_classes = "avenir light-gray bg-transparent"
   background_color_class = 'bg-transparent'
   custom_css = ["styles.css"]
+  favicon = "images/favicon.png"
 
 [menu]
 [[menu.main]]
