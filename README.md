@@ -1,4 +1,5 @@
 # mattermost-ai-site
+![mattermist ai](./banner.png "Mattermost AI Preview")
 
 ## Running it locally
 You can run the site locally by just doing `hugo server`.
