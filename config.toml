@@ -13,20 +13,29 @@ theme = 'ananke'
   favicon = "images/favicon.png"
 
 [menu]
-[[menu.main]]
+[[params.menuItems]]
   name = 'mattermost-ai-framework'
   url = 'https://github.com/mattermost/mattermost-ai-framework'
   weight = 1
-[[menu.main]]
+  targetBlank = true
+[[params.menuItems]]
   name = 'mattermost-plugin-ai'
   url = 'https://github.com/mattermost/mattermost-plugin-ai'
   weight = 2
-[[menu.main]]
+  targetBlank = true
+[[params.menuItems]]
   name = 'Docs'
   url = 'https://docs.mattermost.com/about/mattermost-customizable-ai-bot-framework.html'
   weight = 3
-[[menu.main]]
+  targetBlank = true
+[[params.menuItems]]
   name = 'Forums'
   url = 'https://forum.mattermost.com/c/ai-frameworks/40'
   weight = 4
+  targetBlank = true
+[[params.menuItems]]
+  name = 'Feedback'
+  url = '/feedback'
+  weight = 5
+  targetBlank = false
 
