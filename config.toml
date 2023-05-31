@@ -29,13 +29,8 @@ theme = 'ananke'
   weight = 3
   targetBlank = true
 [[params.menuItems]]
-  name = 'Forums'
-  url = 'https://forum.mattermost.com/c/ai-frameworks/40'
-  weight = 4
-  targetBlank = true
-[[params.menuItems]]
-  name = 'Feedback'
-  url = '/feedback'
+  name = 'Get Involved'
+  url = '/get-involved'
   weight = 5
   targetBlank = false
 
