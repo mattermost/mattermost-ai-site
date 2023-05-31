@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Mattermost AI Framework</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2023 11:31:04 +0500</lastBuildDate><atom:link href="https://ai.mattermost.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 May 2023 23:43:40 +0000</lastBuildDate><atom:link href="https://ai.mattermost.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>May 26th update to `mattermost-plugin-ai`</title>
+      <link>https://ai.mattermost.com/posts/2023-05-30-plugin-update/</link>
+      <pubDate>Tue, 30 May 2023 23:43:40 +0000</pubDate>
+      
+      <guid>https://ai.mattermost.com/posts/2023-05-30-plugin-update/</guid>
+      <description>We are thrilled to announce an update to our mattermost-plugin-ai! This release brings a fresh new interface and enhancements to improve your experience with the AI Assistant. Let&amp;rsquo;s explore the details:
+✨ New Interface for the AI Assistant: Say hello to our revamped AI Assistant interface! We have given it a makeover to provide a more better user experience.
+🤖 Renamed as AI Assistant: We have renamed the LLM Bot to AI Assistant for better clarity.</description>
+    </item>
+    
     <item>
       <title>Welcome to the Mattermost AI Framework Mini-Site</title>
       <link>https://ai.mattermost.com/posts/2023-05-23-welcome/</link>
