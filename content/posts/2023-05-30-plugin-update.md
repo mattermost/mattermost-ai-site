@@ -1,5 +1,5 @@
 ---
-title: "May 26th update to `mattermost-plugin-ai`"
+title: "May 26th update to mattermost-plugin-ai"
 date: 2023-05-30T23:43:40+00:00
 author: Christopher Speller
 github: crspeller
