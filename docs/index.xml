@@ -18,5 +18,14 @@ While this project is under the Mattermost umbrella, rather than using mainline 
 This isn&amp;rsquo;t a best practice, and it isn&amp;rsquo;t scalable in the long run, and it may irk some purists reading through our commit history.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://ai.mattermost.com/posts/2023-06-09-getting-started-ai-framework-video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ai.mattermost.com/posts/2023-06-09-getting-started-ai-framework-video/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
