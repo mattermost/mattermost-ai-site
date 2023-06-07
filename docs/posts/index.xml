@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Mattermost AI Framework</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 May 2023 11:31:04 +0500</lastBuildDate><atom:link href="https://ai.mattermost.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Jun 2023 11:31:04 +0500</lastBuildDate><atom:link href="https://ai.mattermost.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mattermost Announces “Customer-Controlled AI Architecture” for Enhancing Operational Workflows in Defense, Government and Technology Organizations</title>
+      <link>https://ai.mattermost.com/posts/2023-06-07-customer-controlled/</link>
+      <pubDate>Wed, 07 Jun 2023 11:31:04 +0500</pubDate>
+      
+      <guid>https://ai.mattermost.com/posts/2023-06-07-customer-controlled/</guid>
+      <description>Self-hosted, open source solution enables AI-augmentation of mission-critical operations while maintaining full data control and avoiding vendor lock-in Palo Alto, CA, June 07, 2023 (GLOBE NEWSWIRE) &amp;ndash; Mattermost, Inc., the leading secure collaboration platform for technical teams, today announced a new “Customer-Controlled AI Architecture” enabling defense, government and technology enterprises to apply generative AI technologies to enhancing or replacing operational workflows while meeting stringent data control requirements and avoiding lock-in to vendor-specific platforms.</description>
+    </item>
+    
     <item>
       <title>Welcome to the Mattermost AI Framework Mini-Site</title>
       <link>https://ai.mattermost.com/posts/2023-05-23-welcome/</link>
