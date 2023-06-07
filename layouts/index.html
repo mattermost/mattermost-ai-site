@@ -1,4 +1,8 @@
 {{ define "main" }}
+  {{/*  Adding redirect to /posts/2023-06-07-customer-controlled/ from homepage (temporary)  */}}
+  <script>
+    window.location = "/posts/2023-06-07-customer-controlled/";
+  </script>
   <main aria-role="main" class='flex-l flex-wrap justify-between mw8 center ph3'>
     <header class="homepage-header">
       <h1>{{ .Title }}</h1>
